@@ -28,3 +28,9 @@ dvc push
 dvc pull
 ```
 6. [More info](https://dvc.org/doc/start/data-and-model-versioning)
+
+----
+
+### pre-commit
+
+pre-commit is already included in requirements.txt - after installing requirements run `pre-commit install` to activate
